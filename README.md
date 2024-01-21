@@ -1,6 +1,8 @@
+
+
 <h1 align="center">Hi 👋, I'm Sonali Kumari</h1>
 <h3 align="center">I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses.</h3>
-
+<img align = "right" alt ="coding" width = "400" src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalitech&label=Profile%20views&color=0e75b6&style=flat" alt="sonalitech" /> </p>
 
 - 🔭 I’m currently working on **Cross-Platform Web Development,DSA**
@@ -30,3 +32,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalitech&show_icons=true&locale=en" alt="sonalitech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalitech&" alt="sonalitech" /></p>
+
+
+<br/>
+<br/>
+
+<img align='right' src="https://media2.giphy.com/media/7DPisN3JAKJhEyDHIW/giphy.gif" width="200" height="200"></img>
+<br/>
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks for visiting my profile <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20Exclamation.png" alt='' width='38' height='38' />
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt='' width='35' height='35' /> Some Repos &nbsp; <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' />
+
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
