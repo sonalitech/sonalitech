@@ -5,9 +5,9 @@
 <img align = "right" alt ="coding" width = "400" src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalitech&label=Profile%20views&color=0e75b6&style=flat" alt="sonalitech" /> </p>
 
-- 🔭 I’m currently working on **Cross-Platform Web Development,DSA**
+- 🔭 I’m currently working on **Cross-Platform Coding,Web Development,DSA**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA,OOPs**
 
 - 👯 I’m looking to collaborate on **FrontEnd Web Development,Competitive Programming**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sonalitech](https://github.com/sonalitech)
 
-- 💬 Ask me about **C,HTML,CSS**
+- 💬 Ask me about **C,Java,HTML,CSS,Tailwind CSS**
 
 - 📫 How to reach me **sonali_k.it2020@msit.edu.in**
 
